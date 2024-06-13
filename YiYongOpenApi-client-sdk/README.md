@@ -18,15 +18,25 @@ SpringBoot版本要求2.x
 
 
 
-## Maven安装
+## 在本地Maven仓库安装
+------
+
+```xml
+maven  -> install
+```
+
+
+
+# 其他项目使用
+------
+## 导入maven
 
 ------
 
 ```xml
-<!-- https://mvnrepository.com/artifact/io.github.newzhn/WebOpenApi-client-sdk -->
 <dependency>
-    <groupId>io.github.newzhn</groupId>
-    <artifactId>WebOpenApi-client-sdk</artifactId>
+    <groupId>io.github.shiprainJ</groupId>
+    <artifactId>YiYongOpenApi-client-sdk</artifactId>
     <version>1.0.2</version>
 </dependency>
 ```
