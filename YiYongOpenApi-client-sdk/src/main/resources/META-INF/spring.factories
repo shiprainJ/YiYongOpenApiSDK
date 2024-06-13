@@ -1,0 +1,2 @@
+# api??????
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.yuzhou.yiyongopenapiclientsdk.ApiClientConfiguration
