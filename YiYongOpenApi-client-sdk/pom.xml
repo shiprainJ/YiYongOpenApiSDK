@@ -8,37 +8,12 @@
         <version>2.7.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.github.newzhn</groupId>
-    <artifactId>WebOpenApi-client-sdk</artifactId>
+    <groupId>io.github.shiprainJ</groupId>
+    <artifactId>YiYongOpenApi-client-sdk</artifactId>
     <version>1.0.2</version>
     <name>WebOpenApi-client-sdk</name>
-    <url>https://github.com/newzhn/WebOpenApi</url>
-    <description>WebOpenApi平台提供给开发者使用的SDK工具包</description>
-
-    <licenses>
-        <license>
-            <name>Apache License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-            <distribution>repo</distribution>
-            <comments>A business-friendly OSS license</comments>
-        </license>
-    </licenses>
-    <scm>
-        <url>https://github.com/newzhn/WebOpenApi</url>
-        <connection>https://github.com/newzhn/WebOpenApi.git</connection>
-    </scm>
-
-    <developers>
-        <developer>
-            <name>zhanhaonan</name>
-            <email>zhanhaonan1@163.com</email>
-            <roles>
-                <role>Developer</role>
-            </roles>
-            <timezone>+8</timezone>
-        </developer>
-    </developers>
-
+    <description>YiYongOpenApi平台提供给开发者使用的SDK工具包</description>
+    
     <properties>
         <java.version>1.8</java.version>
         <hutool.version>5.8.16</hutool.version>
